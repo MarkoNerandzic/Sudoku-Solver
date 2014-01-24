@@ -1,0 +1,1 @@
+This is my Python program to solve Sudoku puzzles. In order to use it, run SudokuSolverMain.py with sudokuInput.txt in the same directory. This will output a sample puzzle. If you wish for the program to solve another puzzle, you must input it through sudokuInput (see HowToInputAPuzzle.txt for instructions on how to do that)
